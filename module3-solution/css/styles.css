@@ -16,7 +16,11 @@
 .navbar-brand a:hover, .navbar-brand a:focus {
 	text-decoration: none;
 }
-.container .jumbotron {
+#main-content {
+	margin: 50px 10px 0 10px;
+
+}
+.jumbotron {
 	border-radius: 0;
 	border: 1px solid black;
 	background-color: gray;
@@ -30,7 +34,7 @@ h2 {
 	text-align: center;
 	font-size: 30px;
 }
-.container h3 {
+h3 {
 	text-align: center;
 }
 .navbar-header button.navbar-toggle {

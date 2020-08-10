@@ -16,7 +16,7 @@
 .navbar-brand a:hover, .navbar-brand a:focus {
 	text-decoration: none;
 }
-#Chicken, #Sushi,#Beef {
+.container .jumbotron {
 	border-radius: 0;
 	border: 1px solid black;
 	background-color: gray;
